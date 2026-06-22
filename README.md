@@ -2,14 +2,6 @@
 
 # Chat Application MERN-Stack Web Application.
 
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/akashdeep023">
-  <img src="https://profile-counter.glitch.me/chat-app/count.svg" />
-  </a>
-</p>
-
 ---
 
 <a style="" href="https://chat-application-jack.vercel.app/">
@@ -44,7 +36,6 @@ _A real-time **Chat application** built using the MERN stack (MongoDB, Express, 
 -   **Message Notifications:** Get notified of new messages with sound and visual alerts.
 -   **State Management:** Manage application state efficiently using Redux.
 -   **Responsive Design:** Tailwind CSS for a responsive and modern user interface.
-<!-- -   **User Status:** Display online/offline status of users. -->
 
 ## How to Install
 
@@ -53,8 +44,8 @@ Follow these steps to set up and run the project locally:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/akashdeep023/Chat_App.git
-    cd Chat_App
+    git clone https://github.com/Adityajakkula7/realtimechatapp.git
+    cd realtimechatapp
     ```
 
 2.  **Install Dependencies:**
@@ -74,7 +65,7 @@ Follow these steps to set up and run the project locally:
 
 3.  **Set Up Environment Variables:**
 
-    Configure the following environment variables by creating a .env file in the root of Forntend and Backend Folder:
+    Configure the following environment variables by creating a .env file in the root of Frontend and Backend Folder:
 
     Frontend Folder :
 
@@ -139,12 +130,6 @@ Open `http://localhost:5173` in your web browser.
     │   ├── .env
     │   └── package.json
     └── README.md
-
-## Author
-
-Akash Deep \
-Email: contact.akashdeep023@gmail.com \
-LinkedIn : https://www.linkedin.com/in/akashdeep023/
 
 ## Images
 **Profile**
